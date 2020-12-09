@@ -1,0 +1,1 @@
+CALL gds.graph.create('twitch', ['User'], 'FRIEND_WITH');
